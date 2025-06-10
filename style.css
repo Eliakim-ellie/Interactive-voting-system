@@ -1,0 +1,86 @@
+/* ==== GLOBAL STYLES ==== */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f7fa;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+
+    #message {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+      color: #2c3e50;
+      font-weight: bold;
+    }
+
+    /* ==== INPUT SECTION ==== */
+    div {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    #addFriend {
+      padding: 10px;
+      width: 200px;
+      border: 2px solid #3498db;
+      border-radius: 5px;
+      font-size: 16px;
+      margin-right: 10px;
+    }
+
+    #addNew {
+      padding: 10px 20px;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+
+    #addNew:hover {
+      background-color: #2980b9;
+    }
+
+    /* ==== TABLE STYLES ==== */
+    #output {
+      width: 60%;
+      margin: 0 auto;
+      border-collapse: collapse;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    #output th {
+      background-color: #3498db;
+      color: white;
+      padding: 12px;
+      text-align: left;
+    }
+
+    #output td {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    #output tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    #output tr:hover {
+      background-color: #e3f2fd;
+      cursor: pointer;
+    }
+
+    /* ==== RESPONSIVE DESIGN ==== */
+    @media (max-width: 768px) {
+      #output {
+        width: 95%;
+      }
+      
+      #addFriend {
+        width: 150px;
+      }
+    }
