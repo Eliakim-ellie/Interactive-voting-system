@@ -27,9 +27,6 @@ Vote and see results instantly
 👤 Author
 Eliakim | GitHub
 
-📄 License
-MIT License
-
 
 
 
