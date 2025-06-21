@@ -1,8 +1,6 @@
 🗳️ Interactive Voting System
 A web-based app that lets users vote on polls interactively and view live results.
 
-
-
 ⚙️ Features
 Create and vote on polls
 
