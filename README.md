@@ -4,8 +4,7 @@ A web-based app that lets users vote on polls interactively and view live result
 ⚙️ Features
 Create and vote on polls
 
-Live vote count updates
-
+Live vote count update
 Prevents duplicate votes
 
 Responsive design
