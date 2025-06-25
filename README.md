@@ -10,9 +10,6 @@ Responsive design
 
 🛠️ Tech Stack
 HTML, CSS, JavaScript
-
-
-
 🚀 Usage
 Clone the repo
 
