@@ -5,9 +5,7 @@ Create and vote on polls
 
 Live vote count update
 Prevents duplicate votes
-
-Responsive design
-
+Responsive desig
 🛠️ Tech Stack
 HTML, CSS, JavaScript
 🚀 Usage
