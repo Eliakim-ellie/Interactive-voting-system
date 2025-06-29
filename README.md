@@ -14,11 +14,7 @@ Open index.html in a browser
 Vote and see results instantly
 
 👤 Author
-Eliakim | GitHub
-
-
-
-
+Eliakim | 
 
 
 
